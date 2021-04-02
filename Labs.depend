@@ -1,0 +1,84 @@
+# depslib dependency file v1.0
+1497835230 source:c:\users\intelinside\documents\c\testlinux\labs\main.c
+	<locale.h>
+	<stdio.h>
+	<stdlib.h>
+	<getopt.h>
+	"lab1.h"
+	"lab2.h"
+	"lab3.h"
+	"lab4.h"
+	"lab5.h"
+	"lab6.h"
+	"lab7.h"
+	"lab8.h"
+
+1497564684 source:c:\users\intelinside\documents\c\testlinux\labs\lab1.c
+	"lab1.h"
+
+1497563407 c:\users\intelinside\documents\c\testlinux\labs\lab1.h
+	<stdio.h>
+	<math.h>
+	<string.h>
+
+1497565500 source:c:\users\intelinside\documents\c\testlinux\labs\lab2.c
+	"lab2.h"
+
+1497565258 c:\users\intelinside\documents\c\testlinux\labs\lab2.h
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+
+1497798861 c:\users\intelinside\documents\c\testlinux\labs\lab3.h
+	<stdio.h>
+	<string.h>
+
+1497567465 source:c:\users\intelinside\documents\c\testlinux\labs\lab3.c
+	"lab3.h"
+
+1497568598 c:\users\intelinside\documents\c\testlinux\labs\lab4.h
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<stdlib.h>
+	<string.h>
+
+1497568716 source:c:\users\intelinside\documents\c\testlinux\labs\lab4.c
+	"lab4.h"
+
+1497569602 c:\users\intelinside\documents\c\testlinux\labs\lab5.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1497570208 source:c:\users\intelinside\documents\c\testlinux\labs\lab5.c
+	"lab5.h"
+
+1497570781 source:c:\users\intelinside\documents\c\testlinux\labs\lab6.c
+	"lab6.h"
+
+1497570531 c:\users\intelinside\documents\c\testlinux\labs\lab6.h
+	<ctype.h>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1497612393 c:\users\intelinside\documents\c\testlinux\labs\lab7.h
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+	<ctype.h>
+
+1497630808 source:c:\users\intelinside\documents\c\testlinux\labs\lab7.c
+	"lab7.h"
+
+1497838238 source:c:\users\intelinside\documents\c\testlinux\labs\lab8.c
+	"lab8.h"
+
+1497832508 c:\users\intelinside\documents\c\testlinux\labs\lab8.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+
